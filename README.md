@@ -31,5 +31,8 @@ THEN user is presented with current and future conditions for that city.</li>
 
 This is a screenshot of Weather Dashboard  -
 
-<img width="1440" alt="Screen Shot 2022-09-24 at 9 46 08 pm" src="https://user-images.githubusercontent.com/110076459/192096397-19a18280-442e-457a-af12-e083f91950d0.png">
+<img width="1440" alt="Screen Shot 2022-09-24 at 9 52 46 pm" src="https://user-images.githubusercontent.com/110076459/192096570-c1fc544d-d999-4e50-9c1a-35a98d9d8ba1.png">
+
+
+
 
