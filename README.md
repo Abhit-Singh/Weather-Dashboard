@@ -27,7 +27,7 @@ THEN user is presented with a 5-day forecast that displays the date, an icon rep
 THEN user is presented with current and future conditions for that city.</li>
 
 
-[Link to deployed site]()
+[Link to deployed site](https://abhit-singh.github.io/Weather-Dashboard/)
 
 This is a screenshot of Weather Dashboard  -
 
