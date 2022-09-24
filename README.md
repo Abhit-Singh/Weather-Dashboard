@@ -27,7 +27,9 @@ THEN user is presented with a 5-day forecast that displays the date, an icon rep
 THEN user is presented with current and future conditions for that city.</li>
 
 
-
 [Link to deployed site]()
 
 This is a screenshot of Weather Dashboard  -
+
+<img width="1440" alt="Screen Shot 2022-09-24 at 9 46 08 pm" src="https://user-images.githubusercontent.com/110076459/192096397-19a18280-442e-457a-af12-e083f91950d0.png">
+
