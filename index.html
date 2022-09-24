@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Staatliches&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Weather Dashboard </title>
+</head>
+
+<body class="flex-column min-100-vh">
+    <header class="row no-gutters bg-info text-center">
+        <h1 class=" text-light">Weather Dashboard</h1>
+    </header>
+
+    <main class="row ">
+        <div class="col-12 col-md-2 search-bar">
+            <div class="card">
+                <h2 class="">Search for a City:</h2>
+                <form id="city-form" class="city-form">
+                    <label class="form-label" for="city"></label>
+                    <input name="cityname" id="cityname" type="text" autofocus="true" class="form-input" placeholder="City Name" />
+                    <button type="submit" class="btn btn-info">Search</button>
+                </form>
+                <div class="recent-inquires">
+                    <ul class="recent-inquires-ul"></ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-10">
+            <div class="todays-weather">
+                <h3 class="city-and-date" id="city-and-date"></h3>
+                <div class="icon">
+                    <img src="" alt="" id="icon-sourse" />
+                </div>
+                <div class="today-style temp" id="temp"></div>
+                <div class="today-style humidity" id="humidity"></div>
+                <div class="today-style wind-speed"></div>
+                <div class="today-style uv-index"></div>
+            </div>
+            <div class="future-forecast-container row justify-content-between" id="future-forecast-container">
+            </div>
+        </div>
+    </main>
+
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>

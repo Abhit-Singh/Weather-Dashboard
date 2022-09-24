@@ -1,0 +1,85 @@
+header {
+    justify-content: center;
+}
+
+h2 {
+    font-size: larger;
+    padding-top: 20px;
+    margin-left: 5px;
+}
+
+main {
+    margin-top: 15px;
+}
+
+.future-card-div {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.recent-inquires-ul {
+    padding-left: 2px;
+    padding-top: 10px;
+}
+
+.clicked-city {
+    list-style: none;
+    cursor: pointer;
+}
+
+.today-style {
+    font-size: larger;
+    margin: 10px;
+}
+
+.future-forecast-container {
+    margin-right: 15px;
+}
+
+.btn-info {
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 12px;
+}
+
+.clicked-city {
+    margin-top: 5px;
+    background-color: rgb(77, 77, 75, 0.3);
+    border-radius: 5px;
+}
+
+.form-input {
+    border: 1px, solid, gray;
+    border-radius: 5px;
+    width: 120px;
+    display: block;
+    margin-left: 5px;
+}
+
+.todays-weather {
+    margin-bottom: 20px;
+}
+
+.city-form {
+    margin-top: 0px;
+    border-bottom: 2px solid black;
+}
+
+.uv-index {
+    margin-left: 7px;
+    width: 150px;
+    border-radius: 7px;
+    padding-left: 3px;
+}
+
+.green {
+    background-color: rgb(84, 134, 84, 0.8);
+}
+
+.yellow {
+    background-color: rgb(244, 244, 144);
+}
+
+.red {
+    background-color: rgb(219, 106, 106);
+}
